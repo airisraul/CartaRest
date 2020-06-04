@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CartaRest"
+    }
+  },
+  "defaultProject": "CartaRest",
+  "cli": {
+    "analytics": false
+  }
 }

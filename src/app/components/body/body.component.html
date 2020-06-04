@@ -1,0 +1,28 @@
+<!-- <div class="container"> -->
+<div class="row">
+    <div class="col">
+
+        <!-- <div *ngFor="let familia of familias"> -->
+        <div class="card bg-light mb-3" style="width: 100%;padding-left: 1px;padding-right: 1px;" *ngFor="let familia of familias">
+            <div class="card-header text-center">
+                <h5>{{ familia.nombreFamilia }}</h5>
+            </div>
+            <div class="card-body">
+                <div class="container" *ngFor="let articulo of articulos">
+                    <div class="row" *ngIf="(articulo.idFamilia==familia.nombreFamilia)">
+                        <div class="col-10">
+                            {{ articulo.nombrePlato }}
+                        </div>
+                        <div class="col-2">
+                            {{ articulo.precio + '€'}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- </div> -->
+    </div>
+</div>
+<!-- </div> -->
+<br>
+<br>

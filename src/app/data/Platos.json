@@ -1,0 +1,53 @@
+{
+    "platosmenu": [{
+            "idFamilia": "Entrantes",
+            "NombrePlato": "Pulpo con permentier",
+            "Precio": "15€"
+        },
+        {
+            "idFamilia": "Entrantes",
+            "NombrePlato": "Ensalada Cesar con pollo",
+            "Precio": "13€"
+        },
+        {
+            "idFamilia": "Entrantes",
+            "NombrePlato": "Croquetas de jamón",
+            "Precio": "10€"
+        },
+        {
+            "idFamilia": "Entrantes",
+            "NombrePlato": "Mejillones al vapor",
+            "Precio": "9€"
+        },
+        {
+            "idFamilia": "Segundos",
+            "NombrePlato": "Solomillo con rocafort",
+            "Precio": "23€"
+        },
+        {
+            "idFamilia": "Segundos",
+            "NombrePlato": "Lubina al estilo santurce",
+            "Precio": "21€"
+        },
+        {
+            "idFamilia": "Segundos",
+            "NombrePlato": "Bacalao al pil-pil",
+            "Precio": "18€"
+        },
+        {
+            "idFamilia": "Postres",
+            "NombrePlato": "Tarta de queso de la casa",
+            "Precio": "6€"
+        },
+        {
+            "idFamilia": "Postres",
+            "NombrePlato": "Flan de la casa",
+            "Precio": "4€"
+        },
+        {
+            "idFamilia": "Postres",
+            "NombrePlato": "Tarta tatin",
+            "Precio": "6€"
+        }
+    ]
+}

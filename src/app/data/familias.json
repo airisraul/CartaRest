@@ -1,0 +1,15 @@
+{
+    "familias": [{
+            "id": "1",
+            "nombreFamilia": "Entrantes"
+        },
+        {
+            "id": "2",
+            "NombreFamilia": "Segundos"
+        },
+        {
+            "id": "3",
+            "NombreFamilia": "Postres"
+        }
+    ]
+}
